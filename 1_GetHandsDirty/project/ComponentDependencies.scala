@@ -1,5 +1,4 @@
 import ExternalDependencies._
-import InternalDependencies._
 import sbt._
 import TestDependencies._
 import utilities._
